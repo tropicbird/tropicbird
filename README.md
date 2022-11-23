@@ -17,5 +17,5 @@ ___
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | Kaggle Ranking Fansite  | [:link:](https://github.com/tropicbird/kaggle-fansite-public) | [:link:](https://kaggle-ranking-fansite.herokuapp.com)              |
 | Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/)                  |
-| Scraping Kaggle Ranking | [:link:](https://github.com/tropicbird/kaggle-scraping)  | [:link:](https://www.kaggle.com/datasets/hdsk38/comp-top-1000-data)|
+| Scraping Kaggle Ranking | [:link:](https://github.com/tropicbird/kaggle-scraping)  | |
 | MSc Dissertation| [:link:](https://github.com/tropicbird/msc-dissertation-code)                                                                                                                    |  |
