@@ -18,5 +18,6 @@ ___
 | Kaggle Ranking Fansite  | [:link:](https://github.com/tropicbird/kaggle-fansite-public) | [:link:](https://kaggle-ranking-fansite.herokuapp.com)              |
 | Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/)                  |
 | Scraping Kaggle Ranking | [:link:](https://github.com/tropicbird/kaggle-scraping)  | |
-| LINE Bot GPT| [:link:](https://github.com/tropicbird/linebot-gpt)  |[:link:](https://liff.line.me/1645278921-kWRPP32q/?accountId=120bpdbo)|
+| LINE Bot GPT (model:text-davinci-003)| [:link:](https://github.com/tropicbird/linebot-gpt)  |[:link:](https://liff.line.me/1645278921-kWRPP32q/?accountId=120bpdbo)|
+| LINE Bot GPT (model:gpt-3.5-turbo)|  |[:link:]([https://liff.line.me/1645278921-kWRPP32q/?accountId=120bpdbo](https://line.me/R/ti/p/@713orgrq?from=page&liff.referrer=https%3A%2F%2Ft.co%2F&accountId=713orgrq))|
 | MSc Dissertation| [:link:](https://github.com/tropicbird/msc-dissertation-code)                                                                                                                    |  |
