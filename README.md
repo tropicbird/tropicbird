@@ -13,8 +13,9 @@ Thanks for visiting my GitHub page!
 ___
 <a name="personal-projects"></a>
 ### Personal Projects
-| Title                   | Repository                                                                                                                                                                       | Web App                                                            |
+| Title                   | Repository                                                                                                                                                                       | App                                                            |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Pokémon Text Recognision AI App | |[:link:](https://apps.apple.com/us/app/sv-vision/id6449390355) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flutter_pokemon_ai) Google Play|
 | Kaggle Ranking Fansite  | [:link:](https://github.com/tropicbird/kaggle-fansite-public) | [:link:](https://kaggle-ranking-fansite.herokuapp.com)              |
 | Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/)                  |
 | Scraping Kaggle Ranking | [:link:](https://github.com/tropicbird/kaggle-scraping)  | |
