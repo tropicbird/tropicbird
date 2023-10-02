@@ -15,6 +15,7 @@ ___
 ### Personal Projects
 | Title                   | Repository                                                                                                                                                                       | App                                                            |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Flip2Time - Timer App for Study | |[:link:](https://apps.apple.com/app/flip2time/id6466785799) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flip2time) Google Play|
 | Pokémon Text Recognision AI App | |[:link:](https://apps.apple.com/us/app/sv-vision/id6449390355) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flutter_pokemon_ai) Google Play|
 | Kaggle Ranking Fansite  | [:link:](https://github.com/tropicbird/kaggle-fansite-public) | [:link:](https://kaggle-ranking-fansite.herokuapp.com)              |
 | Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/)                  |
