@@ -17,9 +17,7 @@ ___
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | Flip2Time - Timer App for Study | |[:link:](https://apps.apple.com/app/flip2time/id6466785799) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flip2time) Google Play|
 | Pokémon Text Recognision AI App | |[:link:](https://apps.apple.com/us/app/sv-vision/id6449390355) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flutter_pokemon_ai) Google Play|
-| Kaggle Ranking Fansite  | [:link:](https://github.com/tropicbird/kaggle-fansite-public) | [:link:](https://kaggle-ranking-fansite.herokuapp.com)              |
-| Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/)                  |
-| Scraping Kaggle Ranking | [:link:](https://github.com/tropicbird/kaggle-scraping)  | |
+| Web App to Create Wind Farm on Google Earth | [:link:](https://github.com/tropicbird/gewindpowerapp-public) | [:link:](https://gewindpowerapp.herokuapp.com/en/) Web App                 |
 | LINE Bot GPT (model:text-davinci-003)| [:link:](https://github.com/tropicbird/linebot-gpt)  |[:link:](https://liff.line.me/1645278921-kWRPP32q/?accountId=120bpdbo)|
 | LINE Bot GPT (model:gpt-3.5-turbo)|[:link:](https://github.com/tropicbird/line-bot-gpt-3.5-turbo)  |[:link:](https://line.me/R/ti/p/@713orgrq?from=page&liff.referrer=https%3A%2F%2Ft.co%2F&accountId=713orgrq)|
 | MSc Dissertation| [:link:](https://github.com/tropicbird/msc-dissertation-code)                                                                                                                    |  |
