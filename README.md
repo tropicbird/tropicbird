@@ -15,10 +15,8 @@ ___
 ### Personal Projects
 | Title                   | Repository                                                                                                                                                                       | App                                                            |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-|Dictation Practice App using YouTube videos||[:link:](https://language-learning-app-tau.vercel.app/) Web App|
+|Dictation Practice App using YouTube videos||removed|
 | Flip2Time - Timer App for Study | |[:link:](https://apps.apple.com/app/flip2time/id6466785799) App Store<br>[:link:](https://play.google.com/store/apps/details?id=com.tropicbird.flip2time) Google Play|
 | Pokémon Text Recognition AI App | |removed|
 | Windpower Earth |  | [:link:](https://windpowerearth.com) Web App                 |
-| LINE Bot GPT (model:text-davinci-003)| [:link:](https://github.com/tropicbird/linebot-gpt)  ||
-| LINE Bot GPT (model:gpt-3.5-turbo)|[:link:](https://github.com/tropicbird/line-bot-gpt-3.5-turbo)  |[:link:](https://line.me/R/ti/p/@713orgrq?from=page&liff.referrer=https%3A%2F%2Ft.co%2F&accountId=713orgrq)|
 | MSc Dissertation| [:link:](https://github.com/tropicbird/msc-dissertation-code)                                                                                                                    |  |
